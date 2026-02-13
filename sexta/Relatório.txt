@@ -1,0 +1,56 @@
+Atv 3 – Álefe
+Lógica bem estruturada, mas atenção ao nome das variáveis para ficarem mais descritivas.
+
+Atv 3 – Bernardo
+O código compila bem, porém o uso excessivo de condicionais deixou a leitura complexa.
+
+Atv 3 – Bruno
+Boa entrega, recomendo apenas revisar o tratamento de erros para evitar falhas inesperadas.
+
+Atv 3 – Danilo
+Solução criativa e funcional. Apenas tome cuidado com o "código morto" (trechos não utilizados).
+
+Atv 3 – Dário
+Excelente aplicação dos conceitos, mas a formatação do código saiu do padrão em alguns pontos.
+
+Atv 3 – Davi
+O resultado está correto, mas o algoritmo poderia ser mais eficiente em termos de processamento.
+
+Atv 3 – Derick
+Código limpo e objetivo. Sugiro modularizar mais para facilitar futuras manutenções.
+
+Atv 3 – Erik
+A lógica está certa, mas faltou consistência no estilo de escrita do código (CamelCase vs Snake_case).
+
+Atv 3 – Gabriela
+Muito bom trabalho. Para melhorar, tente evitar valores fixos ("hardcoded") no meio da lógica.
+
+Atv 3 – Guilherme
+Funciona, mas a interface com o usuário poderia ser mais intuitiva nas mensagens de saída.
+
+Atv 3 – Jardhel
+Boa implementação. Sugiro focar um pouco mais na validação das entradas de dados.
+
+Atv 3 – João Pedro
+Código roda perfeitamente. Tente aplicar constantes para valores que se repetem muito.
+
+Atv 3 – João Pinheiro
+Estrutura sólida. Uma sugestão seria refatorar o loop principal para ficar mais legível.
+
+Atv 3 – Josias
+Atendeu aos requisitos. Cuidado apenas com a importação de bibliotecas que não foram usadas.
+
+Atv 3 – Kelly
+Código elegante e enxuto. Continue mantendo essa clareza na separação de responsabilidades.
+
+Atv 3 – Marcos
+Bom raciocínio lógico. Apenas revise os comentários, alguns não condizem com o que o código faz.
+
+Atv 3 – Pedro
+Entrega consistente. Poderia ter usado uma estrutura de dados mais adequada para esse problema.
+
+Atv 3 – Raphael
+Muito bom. A indentação está perfeita, só faltou tratar um caso de borda específico.
+
+Atv 3 – Willian
+Correto e funcional. Tente explorar funções recursivas ou métodos auxiliares para reduzir o tamanho do main.
